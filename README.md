@@ -1,10 +1,10 @@
----
+-
 
-### 👨🏻‍💻 Software Engineer with 3 years of dedicated practice in backend development, poised to excel in full-time roles within innovative tech environments. Committed to driving excellence and innovation in software engineering.
+👨🏻‍💻 Software Engineer with 3 years of dedicated practice in backend development, poised to excel in full-time roles within innovative tech environments. Committed to driving excellence and innovation in software engineering.
 
----
+-
 
-### 💻 Tech Stack:
+💻 Tech Stack:
 
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -27,12 +27,10 @@
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
----
-
-### ⌛️ Random Dev Quote
+-
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </p>
 
----
+-
