@@ -1,8 +1,6 @@
---
-
 👨🏻‍💻 Software Engineer with 3 years of dedicated practice in backend development, poised to excel in full-time roles within innovative tech environments. Committed to driving excellence and innovation in software engineering.
 
---
+---
 
 💻 Tech Stack:
 
@@ -27,10 +25,10 @@
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
--
+---
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </p>
 
--
+---
