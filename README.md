@@ -1,8 +1,8 @@
--
+--
 
 👨🏻‍💻 Software Engineer with 3 years of dedicated practice in backend development, poised to excel in full-time roles within innovative tech environments. Committed to driving excellence and innovation in software engineering.
 
--
+--
 
 💻 Tech Stack:
 
