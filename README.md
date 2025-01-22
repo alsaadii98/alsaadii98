@@ -1,3 +1,3 @@
 💻 
 
-There’s no place like `~/`..
+There’s no place like `~/`
